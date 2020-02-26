@@ -1,0 +1,73 @@
+*{
+    margin: 2px,3px;
+}
+body {
+    background-color: #bab9b9;
+    margin: 0px;
+    font-family: Trade winds , sans-serif;
+    color: 0x316da2;
+}
+main {
+    margin-left: 25px; 
+        
+      
+}
+header  {
+    margin: 2px,3px,2px,3px;
+
+    padding-top: .5em;
+    text-align: center;
+}
+.logo{
+    height: 350;
+    width: 350;
+}
+header h1{
+    font-family: trade winds, sans-serif;
+    color: cadetblue;
+    background-color: hsla(100, 62, 100, .5);
+}
+h1,h2,h3,h4{
+    text-align: center
+    font-family: cursive,verdana,sans-serif;
+}
+.s9{
+    height: 200;
+    width: 200;
+    padding: 2px, 2px;
+    font-style: italic;
+    float: left;
+    line-height: 1em;
+    align-content: center
+}
+section   {
+    color: antiquewhite;
+    padding:2em 3em 2em 3em;
+}
+div{
+    background: black;
+    color: aliceblue
+}
+div h3 {
+    background-color:rgb(222, 184, 135);
+    color: darkslategrey;
+    text-align: center;
+}
+#review{
+    color: ivory;
+    background-color: blue;
+    padding: 2em 3em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+
+}
+div p::first-line{
+    text-indent: 2em;
+}
+
+footer{
+    text-align:right;
+    background-color: cyan;
+
+}
+    
